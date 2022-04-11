@@ -38,6 +38,11 @@ Note: only the publications since 2022 are tracked for now.
 30. Aftab M U, Hamza A, Oluwasanmi A, et al. <b>Traditional and Hybrid Access Control Models: A Detailed Survey[J]</b>. Security and Communication Networks, 2022, 2022. [Link](https://www.hindawi.com/journals/scn/2022/1560885/)
 31. Zhang L, Chakareski J. <b>UAV-Assisted Edge Computing and Streaming for Wireless Virtual Reality: Analysis, Algorithm Design, and Performance Guarantees[J]</b>. IEEE Transactions on Vehicular Technology, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9709222/)
 32. Yang C, Liang P, Fu L, et al. <b>Using 5G in Smart Cities: A Systematic Mapping Study[J]</b>. Intelligent Systems with Applications, 2022: 200065. [Link](https://www.sciencedirect.com/science/article/pii/S2667305322000060)
+33. Lalbakhsh A, Pitcairn A, Mandal K, et al. <b>Darkening Low-Earth Orbit Satellite Constellations: A review[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9722840/)
+34. Javed F, Antevski K, Mangues-Bafalluy J, et al. <b>Distributed Ledger Technologies for Network Slicing: A Survey[J]</b>. IEEE Access, 2022, 10: 19412-19442. [Link](https://ieeexplore.ieee.org/abstract/document/9712294/)
+35. Peng D, He D, Li Y, et al. <b>Integrating Terrestrial and Satellite Multibeam Systems Toward 6G: Techniques and Challenges for Interference Mitigation[J]</b>. IEEE Wireless Communications, 2022, 29(1): 24-31. [Link](https://ieeexplore.ieee.org/abstract/document/9749196/)
+36. Cui H, Zhang J, Geng Y, et al. <b>Space-air-ground integrated network (SAGIN) for 6G: Requirements, architecture and challenges[J]</b>. China Communications, 2022, 19(2): 90-108. [Link](https://ieeexplore.ieee.org/abstract/document/9722775/)
+37. Çelikbilek K, Saleem Z, Morales Ferre R, et al. <b>Survey on optimization methods for LEO-satellite-based networks with applications in future autonomous transportation[J]</b>. Sensors, 2022, 22(4): 1421. [Link](https://www.mdpi.com/1496134)
 
 ## Jan. 2022
 1. Alavikia Z, Shabro M. <b>A comprehensive layered approach for implementing internet of things-enabled smart grid: A survey[J]</b>. Digital Communications and Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822000025)
@@ -52,3 +57,7 @@ Note: only the publications since 2022 are tracked for now.
 10. Luo X, Chen H H, Guo Q. <b>Semantic Communications: Overview, Open Issues, and Future Research Directions[J]</b>. IEEE Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9679803/)
 11. Tataria H, Shafi M, Dohler M, et al. <b>Six Critical Challenges for 6G Wireless Systems: A Summary and Some Solutions[J]</b>. IEEE Vehicular Technology Magazine, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9681718/)
 12. Wang Q, Sun H, Hu R Q, et al. <b>When Machine Learning Meets Spectrum Sharing Security: Methodologies and Challenges[J]</b>. IEEE Open Journal of the Communications Society, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9693972/)
+13. Guo H, Li J, Liu J, et al. <b>A Survey on Space-Air-Ground-Sea Integrated Network Security in 6G[J]</b>. IEEE Communications Surveys & Tutorials, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9628162/)
+14. Wypiór D, Klinkowski M, Michalski I. <b>Open RAN—Radio Access Network Evolution, Benefits and Market Trends[J]</b>. Applied Sciences, 2022, 12(1): 408. [Link](https://www.mdpi.com/1431784)
+15. Wei L, Shuai J, Liu Y, et al. <b>Service customized space-air-ground integrated network for immersive media: Architecture, key technologies, and prospects[J]</b>. China Communications, 2022, 19(1): 1-13. [Link](https://ieeexplore.ieee.org/abstract/document/9693466/)
+16. Klinkowski M, Jaworski M. <b>Planning of Optical Connections in 5G Packet-Optical xHaul Access Network[J]</b>. Applied Sciences, 2022, 12(3): 1146. [Link](https://www.mdpi.com/2076-3417/12/3/1146)
