@@ -38,6 +38,7 @@ Note: only the publications since 2022 are tracked for now.
 30. Hamdi A M A, Hussain F K, Hussain O K. <b>Task offloading in vehicular fog computing: State-of-the-art and open issues[J]</b>. Future Generation Computer Systems, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X22000942)
 31. WANG Z, DU Y, WEI K, et al. <b>Vision, application scenarios, and key technology trends for 6G mobile communications[J]</b>. Information Sciences, 2022, 65(151301): 1-151301. [Link](https://link.springer.com/article/10.1007/s11432-021-3351-5)
 32. Hakeem S A A, Hussein H H, Kim H W. <b>Vision and research directions of 6G technologies and applications[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157822001033)
+33. Soltani N, Rahmani A M, Bohlouli M, et al. <b>Artificial intelligence empowered threat detection in the Internet of Things: A systematic review[J]</b>. Concurrency and Computation: Practice and Experience, e6894. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6894)
 
 ## Feb. 2022
 1. Wu D, Cui L. <b>A comprehensive survey on Segment Routing Traffic Engineering[J]</b>. Digital Communications and Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822000189)
@@ -77,6 +78,8 @@ Note: only the publications since 2022 are tracked for now.
 35. Peng D, He D, Li Y, et al. <b>Integrating Terrestrial and Satellite Multibeam Systems Toward 6G: Techniques and Challenges for Interference Mitigation[J]</b>. IEEE Wireless Communications, 2022, 29(1): 24-31. [Link](https://ieeexplore.ieee.org/abstract/document/9749196/)
 36. Cui H, Zhang J, Geng Y, et al. <b>Space-air-ground integrated network (SAGIN) for 6G: Requirements, architecture and challenges[J]</b>. China Communications, 2022, 19(2): 90-108. [Link](https://ieeexplore.ieee.org/abstract/document/9722775/)
 37. Çelikbilek K, Saleem Z, Morales Ferre R, et al. <b>Survey on optimization methods for LEO-satellite-based networks with applications in future autonomous transportation[J]</b>. Sensors, 2022, 22(4): 1421. [Link](https://www.mdpi.com/1496134)
+38. Guangyi L, Juan D, Qingbi Z, et al. <b>Native intelligence for 6G mobile network: technical challenges, architecture and key features[J]</b>. The Journal of China Universities of Posts and Telecommunications, 2022, 29(1): 27. [Link](https://jcupt.bupt.edu.cn/CN/10.19682/j.cnki.1005-8885.2022.2004)
+39. Ali M F, Jayakody D N K, Li Y. <b>Recent Trends in Underwater Visible Light Communication (UVLC) Systems[J]</b>. IEEE Access, 2022, 10: 22169-22225. [Link](https://ieeexplore.ieee.org/abstract/document/9707771/)
 
 ## Jan. 2022
 1. Alavikia Z, Shabro M. <b>A comprehensive layered approach for implementing internet of things-enabled smart grid: A survey[J]</b>. Digital Communications and Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822000025)
@@ -95,3 +98,12 @@ Note: only the publications since 2022 are tracked for now.
 14. Wypiór D, Klinkowski M, Michalski I. <b>Open RAN—Radio Access Network Evolution, Benefits and Market Trends[J]</b>. Applied Sciences, 2022, 12(1): 408. [Link](https://www.mdpi.com/1431784)
 15. Wei L, Shuai J, Liu Y, et al. <b>Service customized space-air-ground integrated network for immersive media: Architecture, key technologies, and prospects[J]</b>. China Communications, 2022, 19(1): 1-13. [Link](https://ieeexplore.ieee.org/abstract/document/9693466/)
 16. Klinkowski M, Jaworski M. <b>Planning of Optical Connections in 5G Packet-Optical xHaul Access Network[J]</b>. Applied Sciences, 2022, 12(3): 1146. [Link](https://www.mdpi.com/2076-3417/12/3/1146)
+17. Ma X, Liao L, Li Z, et al. <b>Applying Federated Learning in Software-Defined Networks: A Survey[J]</b>. Symmetry, 2022, 14(2): 195. [Link](https://www.mdpi.com/1457594)
+18. Almutairi M S. <b>Deep Learning-Based Solutions for 5G Network and 5G-Enabled Internet of Vehicles: Advances, Meta-Data Analysis, and Future Direction[J]</b>. Mathematical Problems in Engineering, 2022, 2022. [Link](https://www.hindawi.com/journals/mpe/2022/6855435/)
+19. Yang Z, Chen M, Wong K K, et al. <b>Federated learning for 6G: Applications, challenges, and opportunities[J]</b>. Engineering, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2095809921005245)
+20. Abreha H G, Hayajneh M, Serhani M A. <b>Federated Learning in Edge Computing: A Systematic Survey[J]</b>. Sensors, 2022, 22(2): 450. [Link](https://www.mdpi.com/1440006)
+21. Bout E, Loscri V, Gallais A. <b>How Machine Learning changes the nature of cyberattacks on IoT networks: A survey[J]</b>. IEEE Communications Surveys & Tutorials, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9612604/)
+22. Wang Z, Sun Y, Yuan S. <b>Intelligent radio access networks: architectures, key techniques, and experimental platforms[J]</b>. Frontiers of Information Technology & Electronic Engineering, 2022, 23(1): 5-18. [Link](https://link.springer.com/article/10.1631/FITEE.2100305)
+23. Alraih S, Shayea I, Behjati M, et al. <b>Revolution or Evolution? Technical Requirements and Considerations towards 6G Mobile Communications[J]</b>. Sensors, 2022, 22(3): 762. [Link](https://www.mdpi.com/1457580)
+24. Zhang P, Xu W, Gao H, et al. <b>Toward Wisdom-Evolutionary and Primitive-Concise 6G: A New Paradigm of Semantic Communication Networks[J]</b>. Engineering, 2022, 8: 60-73. [Link](https://www.sciencedirect.com/science/article/pii/S2095809921004513)
+25. Guo H, Zhou X, Liu J, et al. <b>Vehicular intelligence in 6G: Networking, communications, and computing[J]</b>. Vehicular Communications, 2022, 33: 100399. [Link](https://www.sciencedirect.com/science/article/pii/S2214209621000681)
