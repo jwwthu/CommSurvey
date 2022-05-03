@@ -5,6 +5,28 @@ Note: if you want to add the tracking for a specific journal or add your own pub
 
 Note: only the publications since 2022 are tracked for now.
 
+## Apr. 2022
+1. Pana V S, Babalola O P, Balyan V. <b>5G radio access networks: A survey[J]</b>. Array, 2022: 100170. [Link](https://www.sciencedirect.com/science/article/pii/S2590005622000315)
+2. Ibhaze A E, Imoize A L, Okoyeigbo O. <b>A Brief Overview of Energy Efficiency Resources in Emerging Wireless Communication Systems[C]</b>//Telecom. Multidisciplinary Digital Publishing Institute, 2022, 3(2): 281-300. [Link](https://www.mdpi.com/2673-4001/3/2/16)
+3. Abdulkarem A B, Audah L, Abdulkareem A B, et al. <b>A comprehensive study of handover mechanism with minimal resources in 5G cellular networks: architecture and challenges[J]</b>. Journal of Ambient Intelligence and Humanized Computing, 2022: 1-9. [Link](https://link.springer.com/article/10.1007/s12652-022-03839-4)
+4. Deb R, Roy S. <b>A comprehensive survey of vulnerability and information security in SDN[J]</b>. Computer Networks, 2022: 108802. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1389128622000299)
+5. Pang J, Wang S, Tang Z, et al. <b>A new 5G radio evolution towards 5G-Advanced[J]</b>. Science China Information Sciences, 2022. [Link](https://doi.org/10.1007/s11432-021-3470-1)
+6. Murad S A, Muzahid A J M, Azmi Z R M, et al. <b>A review on job scheduling technique in cloud computing and priority rule based intelligent framework[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157822001112)
+7. Ray P P. <b>A review on tactile IoT: Architecture, requirements, prospects, and future directions[J]</b>. Transactions on Emerging Telecommunications Technologies, 2022. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4428)
+8. Nikravan M, Kashani M H. <b>A review on trust management in fog/edge computing: Techniques, trends, and challenges[J]</b>. Journal of Network and Computer Applications, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1084804522000613)
+9. Duo W, Zhou M C, Abusorrah A. <b>A Survey of Cyber Attacks on Cyber Physical Systems: Recent Advances and Challenges[J]</b>. IEEE/CAA Journal of Automatica Sinica, 2022, 9(5): 784-800. [Link](https://ieeexplore.ieee.org/abstract/document/9763485/)
+10. Ssengonzi C, Kogeda O P, Olwal T O. <b>A survey of deep reinforcement learning application in 5G and beyond network slicing and virtualization[J]</b>. Array, 2022: 100142. [Link](https://www.sciencedirect.com/science/article/pii/S2590005622000133)
+11. Li T, He X, Jiang S, et al. <b>A survey of privacy-preserving offloading methods in mobile-edge computing[J]</b>. Journal of Network and Computer Applications, 2022: 103395. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1084804522000546)
+12. Li X, Pan L, Liu S. <b>A survey of resource provisioning problem in cloud brokers[J]</b>. Journal of Network and Computer Applications, 2022: 103384. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1084804522000479)
+13. Jurczenia K, Rak J. <b>A Survey of Vehicular Network Systems for Road Traffic Management[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9759312)
+14. Sathish C, Rubavathi C Y. <b>A survey on Blockchain mechanisms (BCM) based on internet of things (IoT) applications[J]</b>. Multimedia Tools and Applications, 2022: 1-40. [Link](https://link.springer.com/article/10.1007/s11042-022-12784-5)
+15. Li R, Lin B, Liu Y, et al. <b>A Survey on Laser Space Network: Terminals, Links, and Architectures[J]</b>. IEEE Access, 2022, 10: 34815-34834. [Link](https://ieeexplore.ieee.org/abstract/document/9743921)
+16. Kumar D, Baranwal G, Shankar Y, et al. <b>A survey on nature-inspired techniques for computation offloading and service placement in emerging edge technologies[J]</b>. World Wide Web, 2022: 1-59. [Link](https://link.springer.com/article/10.1007/s11280-022-01053-y)
+17. Conti M, Kumar G, Nerurkar P, et al. <b>A survey on security challenges and solutions in the IOTA[J]</b>. Journal of Network and Computer Applications, 2022: 103383. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1084804522000467)
+18. Liyanage M, Pham Q V, Dev K, et al. <b>A survey on Zero touch network and Service (ZSM) Management for 5G and beyond networks[J]</b>. Journal of Network and Computer Applications, 2022: 103362. [Link](https://www.sciencedirect.com/science/article/pii/S1084804522000297)
+19. Ahmetoglu S, Che Cob Z, Ali N A. <b>A Systematic Review of Internet of Things Adoption in Organizations: Taxonomy, Benefits, Challenges and Critical Factors[J]</b>. Applied Sciences, 2022, 12(9): 4117. [Link](https://www.mdpi.com/2076-3417/12/9/4117)
+20. Rahman Z, Yi X, Mehedi S, et al. <b>Blockchain Applicability for the Internet of Things: Performance and Scalability Challenges and Solutions[J]</b>. Electronics, 2022, 11(9): 1416. [Link](https://www.mdpi.com/2079-9292/11/9/1416)
+
 ## Mar. 2022
 1. Meena P, Pal M B, Jain P K, et al. <b>6G Communication Networks: Introduction, Vision, Challenges, and Future Directions[J]</b>. Wireless Personal Communications, 2022: 1-27. [Link](https://link.springer.com/article/10.1007/s11277-022-09590-5)
 2. Bajracharya R, Shrestha R, Kim S, et al. <b>6G NR-U based Wireless Infrastructure UAV: Standardization, Opportunities, Challenges and Future Scopes[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9734063/)
