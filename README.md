@@ -5,6 +5,8 @@ Note: if you want to add the tracking for a specific journal or add your own pub
 
 Note: only the publications since 2022 are tracked for now.
 
+Note: A special collection about **Satellite Communication Surveys** can be found in [Satellite.md](https://github.com/jwwthu/CommSurvey/blob/main/Satellite.md).
+
 ## Apr. 2022
 1. Pana V S, Babalola O P, Balyan V. <b>5G radio access networks: A survey[J]</b>. Array, 2022: 100170. [Link](https://www.sciencedirect.com/science/article/pii/S2590005622000315)
 2. Ibhaze A E, Imoize A L, Okoyeigbo O. <b>A Brief Overview of Energy Efficiency Resources in Emerging Wireless Communication Systems[C]</b>//Telecom. Multidisciplinary Digital Publishing Institute, 2022, 3(2): 281-300. [Link](https://www.mdpi.com/2673-4001/3/2/16)
