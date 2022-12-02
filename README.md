@@ -7,6 +7,8 @@ Note: only the publications since 2022 are tracked for now.
 
 Note: A special collection about **Satellite Communication Surveys** can be found in [Satellite.md](https://github.com/jwwthu/CommSurvey/blob/main/Satellite.md).
 
+Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
+
 ## October. 2022
 1. Peng H, Chen P C, Chen P H, et al. <b>6G toward Metaverse: Technologies, Applications, and Challenges[C]</b>//2022 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS). IEEE, 2022: 6-10. [Link](https://ieeexplore.ieee.org/abstract/document/9906483/)
 2. Ray P P. <b>A review on 6G for space-air-ground integrated network: Key enablers, open challenges, and future direction[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157821002172)
