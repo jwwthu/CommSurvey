@@ -105,6 +105,15 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Coronado E, Behravesh R, Subramanya T, et al. <b>Zero Touch Management: A Survey of Network Automation Solutions for 5G and 6G Networks[J]</b>. IEEE Communications Surveys & Tutorials, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9913206/)
 * Uysal D T, Yoo P D, Taha K. <b>Data-driven malware detection for 6G networks: A survey from the perspective of continuous learning and explainability via visualisation[J]</b>. IEEE Open Journal of Vehicular Technology, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9940572/)
 * Wu X, Du Y, Fan T, et al. <b>Threat analysis for space information network based on network security attributes: a review[J]</b>. Complex & Intelligent Systems, 2022: 1-40. [Link](https://link.springer.com/article/10.1007/s40747-022-00899-z)
+* Getman A I, Ikonnikova M K. <b>A Survey of Network Traffic Classification Methods Using Machine Learning[J]</b>. Programming and Computer Software, 2022, 48(7): 413-423. [Link](https://link.springer.com/article/10.1134/S0361768822070052)
+* Beniwal G, Singhrova A. <b>A systematic literature review on IoT gateways[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157821003219)
+* Al-Araji Z J, Ahmad S S S, Kausar N, et al. <b>Fuzzy Theory in Fog Computing: Review, Taxonomy, and Open Issues[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9965385/)
+* Wagan S A, Koo J, Siddiqui I F, et al. <b>Internet of Medical Things And Trending Converged Technologies: A Comprehensive Review on Real-Time Applications[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157822003263)
+* Kanakis M E, Khalili R, Wang L. <b>Machine Learning for Computer Systems and Networking: A Survey[J]</b>. ACM Computing Surveys (CSUR), 2022. [Link](https://dl.acm.org/doi/abs/10.1145/3523057)
+* Monteiro V F, Lima F R M, Moreira D C, et al. <b>Paving the way towards mobile iab: Problems, solutions and challenges[J]</b>. IEEE Open Journal of the Communications Society, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9963607/)
+* Zheng H, Jiang Y, Tian C, et al. <b>Rethinking Fine-grained Measurement from Software-defined Perspective: A Survey[J]</b>. IEEE Transactions on Services Computing, 2022, 15(6): 3649-3667. [Link](https://ieeexplore.ieee.org/abstract/document/9511799/)
+* Mukhtar M, Yunus F, Alqahtani A, et al. <b>The Challenges and Compatibility of Mobility Management Solutions for Future Networks[J]</b>. Applied Sciences, 2022, 12(22): 11605. [Link](https://www.mdpi.com/1947168)
+* Madan S, Sofat S, Bansal D. <b>Tools and Techniques for Collection and Analysis of Internet-of-Things malware: A systematic state-of-art review[J]</b>. Journal of King Saud University-Computer and Information Sciences, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1319157821003621)
 
 ## October. 2022
 1. Peng H, Chen P C, Chen P H, et al. <b>6G toward Metaverse: Technologies, Applications, and Challenges[C]</b>//2022 IEEE VTS Asia Pacific Wireless Communications Symposium (APWCS). IEEE, 2022: 6-10. [Link](https://ieeexplore.ieee.org/abstract/document/9906483/)
@@ -165,6 +174,8 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Zhou W, Zhang R, Chen G, et al. <b>Integrated Sensing and Communication Waveform Design: A Survey[J]</b>. IEEE Open Journal of the Communications Society, 2022, 3: 1930-1949. [Link](https://ieeexplore.ieee.org/abstract/document/9924202/)
 * Wang H, Xia X, Qi W, et al. <b>Survey on Future Mobile Core Network using Live Service Migration[C]</b>//2022 IEEE/CIC International Conference on Communications in China (ICCC Workshops). IEEE, 2022: 48-52. [Link](https://ieeexplore.ieee.org/abstract/document/9896643/)
 * Long Q, Chen Y, Zhang H, et al. <b>Software defined 5G and 6G networks: a survey[J]</b>. Mobile networks and applications, 2022: 1-21. [Link](https://link.springer.com/article/10.1007/s11036-019-01397-2)
+* Lee M, Yu G, Dai H, et al. <b>Graph Neural Networks Meet Wireless Communications: Motivation, Applications, and Future Directions[J]</b>. IEEE Wireless Communications, 2022, 29(5): 12-19. [Link](https://ieeexplore.ieee.org/abstract/document/9979700/)
+* Chen G, Wu T, Yang F, et al. <b>Ultraviolet-Based UAV Swarm Communications: Potentials and Challenges[J]</b>. IEEE Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9771324/)
 
 ## September. 2022
 1. Banda L, Mzyece M, Mekuria F. <b>5G Business Models for Mobile Network Operators–A Survey[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9881490/)
@@ -234,6 +245,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Lavaur L, Pahl M O, Busnel Y, et al. <b>The Evolution of Federated Learning-based Intrusion Detection and Mitigation: a Survey[J]</b>. IEEE Transactions on Network and Service Management, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9780571/)
 * Osama M, Ateya A A, Ahmed Elsaid S, et al. <b>Ultra-Reliable Low-Latency Communications: Unmanned Aerial Vehicles Assisted Systems[J]</b>. Information, 2022, 13(9): 430. [Link](https://www.mdpi.com/1825174)
 * Ghamari M, Rangel P, Mehrubeoglu M, et al. <b>Unmanned aerial vehicle communications for civil applications: a review[J]</b>. IEEE Access, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9899444/)
+* Rolly R M, Malarvezhi P, Lagkas T D. <b>Unmanned aerial vehicles: Applications, techniques, and challenges as aerial base stations[J]</b>. International Journal of Distributed Sensor Networks, 2022, 18(9): 15501329221123933. [Link](https://journals.sagepub.com/doi/abs/10.1177/15501329221123933)
 
 ## August. 2022
 1. Ramirez R, Huang C Y, Liang S H. <b>5G Digital Twin: A Study of Enabling Technologies[J]</b>. Applied Sciences, 2022, 12(15): 7794. [Link](https://www.mdpi.com/article/10.3390/app12157794)
@@ -305,6 +317,9 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Wu W, Zhou F, Wang B, et al. <b>Unmanned Aerial Vehicle Swarm-Enabled Edge Computing: Potentials, Promising Technologies, and Challenges[J]</b>. IEEE Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9770577/)
 * Tang C, Chen W, Zhu C, et al. <b>When Cache Meets Vehicular Edge Computing: Architecture, Key Issues and Challenges[J]</b>. IEEE Wireless Communications, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9770095/)
 * Theoharis P I, Raad R, Tubbal F, et al. <b>Wideband reflectarrays for 5G/6G: A survey[J]</b>. IEEE Open Journal of Antennas and Propagation, 2022, 3: 871-901. [Link](https://ieeexplore.ieee.org/abstract/document/9847386/)
+* Duong T Q, Ansere J A, Narottama B, et al. <b>Quantum-Inspired Machine Learning for 6G: Fundamentals, Security, Resource Allocations, Challenges, and Future Research Directions[J]</b>. IEEE Open Journal of Vehicular Technology, 2022, 3: 375-387. [Link](https://ieeexplore.ieee.org/abstract/document/9870532/)
+* Lansky J, Ali S, Rahmani A M, et al. <b>Reinforcement Learning-Based Routing Protocols in Flying Ad Hoc Networks (FANET): A Review[J]</b>. Mathematics, 2022, 10(16): 3017. [Link](https://www.mdpi.com/1788458)
+* Michailidis E T, Maliatsos K, Skoutas D N, et al. <b>Secure UAV-Aided Mobile Edge Computing for IoT: A Review[J]</b>. IEEE Access, 2022, 10: 86353-86383. [Link](https://ieeexplore.ieee.org/abstract/document/9858158/)
 
 ## July. 2022
 1. Moussaoui M, Bertin E, Crespi N. <b>5G shortcomings and Beyond-5G/6G requirements[C]</b>//International Conference on 6G Networking (6GNet). 2022. [Link](https://ieeexplore.ieee.org/document/9830439)
@@ -374,6 +389,9 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Lacava A, Zottola V, Bonaldo A, et al. <b>Securing Bluetooth Low Energy networking: An overview of security procedures and threats[J]</b>. Computer Networks, 2022: 108953. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622001335)
 * Wahid I, Tanvir S, Ahmad M, et al. <b>Vehicular Ad Hoc Networks Routing Strategies for Intelligent Transportation System[J]</b>. Electronics, 2022, 11(15): 2298. [Link](https://www.mdpi.com/2079-9292/11/15/2298)
 * Zheng Z, Xiaoli L, Tang M, et al. <b>Web service QoS prediction via collaborative filtering: A survey[J]</b>. IEEE Transactions on Services Computing, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9095421/)
+* Tomar P, Kumar G, Verma L P, et al. <b>Cmt-sctp and mptcp multipath transport protocols: A comprehensive review[J]</b>. Electronics, 2022, 11(15): 2384. [Link](https://www.mdpi.com/1752892)
+* Alzoubi Y I, Al-Ahmad A, Kahtan H, et al. <b>Internet of Things and Blockchain Integration: Security, Privacy, Technical, and Design Challenges[J]</b>. Future Internet, 2022, 14(7): 216. [Link](https://www.mdpi.com/1737236)
+* Hentati A I, Fourati L C, Elgharbi E, et al. <b>Simulation tools, environments and frameworks for UAVs and multi-UAV-based systems performance analysis (version 2.0)[J]</b>. International Journal of Modelling and Simulation, 2022: 1-17. [Link](https://www.tandfonline.com/doi/abs/10.1080/02286203.2022.2092257)
 
 ## June. 2022
 1. Kishore N, Senapati A. <b>5G smart antenna for IoT application: A review[J]</b>. International Journal of Communication Systems, e5241. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/dac.5241)
@@ -642,6 +660,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Nguyen M, Debroy S. <b>Moving Target Defense-Based Denial-of-Service Mitigation in Cloud Environments: A Survey[J]</b>. Security and Communication Networks, 2022, 2022. [Link](https://www.hindawi.com/journals/scn/2022/2223050/)
 * Liang B, Gregory M A, Li S. <b>Multi-access Edge Computing fundamentals, services, enablers and challenges: A complete survey[J]</b>. Journal of Network and Computer Applications, 2021: 103308. [Link](https://www.sciencedirect.com/science/article/pii/S1084804521002976)
 * Cassel G A S, Rodrigues V F, da Rosa Righi R, et al. <b>Serverless computing for Internet of Things: A systematic literature review[J]</b>. Future Generation Computer Systems, 2022, 128: 299-316. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X21004167)
+* Samanth S, KV P, Balachandra M. <b>Security in Internet of Drones: A Comprehensive Review[J]</b>. Cogent Engineering, 2022, 9(1): 2029080. [Link](https://www.tandfonline.com/doi/abs/10.1080/23311916.2022.2029080)
 
 ## Feb. 2022
 1. Wu D, Cui L. <b>A comprehensive survey on Segment Routing Traffic Engineering[J]</b>. Digital Communications and Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822000189)
@@ -743,3 +762,4 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Chen Y, Zhang J, Feng W, et al. <b>Radio Sensing Using 5G Signals: Concepts, State of the Art, and Challenges[J]</b>. IEEE Internet of Things Journal, 2021, 9(2): 1037-1052. [Link](https://ieeexplore.ieee.org/abstract/document/9634165/)
 * Pilloni V, Ning H, Atzori L. <b>Task Allocation Among Connected Devices: Requirements, Approaches, and Challenges[J]</b>. IEEE Internet of Things Journal, 2021, 9(2): 1009-1023. [Link](https://ieeexplore.ieee.org/abstract/document/9611543/)
 * Celik A, Salama K N, Eltawil A M. <b>The internet of bodies: A systematic survey on propagation characterization and channel modeling[J]</b>. IEEE Internet of Things Journal, 2021, 9(1): 321-345. [Link](https://ieeexplore.ieee.org/abstract/document/9490369/)
+* Ang K L M, Seng J K P, Ngharamike E. <b>Towards crowdsourcing internet of things (crowd-iot): Architectures, security and applications[J]</b>. Future Internet, 2022, 14(2): 49. [Link](https://www.mdpi.com/1478882)
