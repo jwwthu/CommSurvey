@@ -57,6 +57,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Qin L, Lu H, Wu F. <b>When User-Centric Network Meets Mobile Edge Computing: Challenges and Optimization[J]</b>. IEEE Communications Magazine, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9952196/)
 
 ## December 2022
+* Guo J, Wen C K, Jin S, et al. <b>Overview of deep learning-based CSI feedback in massive MIMO systems[J]</b>. IEEE Transactions on Communications, 2022, 70(12): 8017-8045. [Link](https://ieeexplore.ieee.org/abstract/document/9931713/)
 * Lin H, Wu C, Masdari M. <b>A comprehensive survey of network traffic anomalies and DDoS attacks detection schemes using fuzzy techniques[J]</b>. Computers and Electrical Engineering, 2022, 104: 108466. [Link](https://www.sciencedirect.com/science/article/pii/S0045790622006814)
 * Jagannath A, Jagannath J, Kumar P S P V. <b>A comprehensive survey on radio frequency (rf) fingerprinting: Traditional approaches, deep learning, and open challenges[J]</b>. Computer Networks, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622004893)
 * Hou L, Gregory M A, Li S. <b>A Survey of Multi-Access Edge Computing and Vehicular Networking[J]</b>. IEEE Access, 2022, 10: 123436-123451. [Link](https://ieeexplore.ieee.org/abstract/document/9956993/)
@@ -243,7 +244,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 26. John D M, Vincent S, Pathan S, et al. <b>Flexible Antennas for a Sub-6 GHz 5G Band: A Comprehensive Review[J]</b>. Sensors, 2022, 22(19): 7615. [Link](https://www.mdpi.com/1424-8220/22/19/7615)
 27. Bukhari A, Hussain F K, Hussain O K. <b>Fog node discovery and selection: A Systematic literature review[J]</b>. Future Generation Computer Systems, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X22001625)
 28. Maddikunta P K R, Pham Q V, Nguyen D C, et al. <b>Incentive techniques for the internet of things: a survey[J]</b>. Journal of Network and Computer Applications, 2022: 103464. [Link](https://www.sciencedirect.com/science/article/pii/S1084804522001138)
-29. Wang J, Varshney N, Gentile C, et al. <b>Integrated Sensing and Communication: Enabling Techniques, Applications, Tools and Datasets, Standardization, and Future Directions[J]</b>. IEEE Internet of Things Journal, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9829746/)
 30. Bello O, Zeadally S. <b>Internet of underwater things communication: Architecture, technologies, research challenges and future opportunities[J]</b>. Ad Hoc Networks, 2022, 135: 102933. [Link](https://www.sciencedirect.com/science/article/pii/S1570870522001172)
 31. Kashyap V, Kumar A. <b>Load balancing techniques for fog computing environment: Comparison, taxonomy, open issues, and challenges[J]</b>. Concurrency and Computation: Practice and Experience, 2022: e7183. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.7183)
 32. Costa B, Bachiega Jr J, Carvalho L R, et al. <b>Monitoring fog computing: A review, taxonomy and open challenges[J]</b>. Computer Networks, 2022: 109189. [Link](https://www.sciencedirect.com/science/article/pii/S1389128622002845)
