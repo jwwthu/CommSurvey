@@ -561,6 +561,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Lansky J, Ali S, Rahmani A M, et al. <b>Reinforcement Learning-Based Routing Protocols in Flying Ad Hoc Networks (FANET): A Review[J]</b>. Mathematics, 2022, 10(16): 3017. [Link](https://www.mdpi.com/1788458)
 * Michailidis E T, Maliatsos K, Skoutas D N, et al. <b>Secure UAV-Aided Mobile Edge Computing for IoT: A Review[J]</b>. IEEE Access, 2022, 10: 86353-86383. [Link](https://ieeexplore.ieee.org/abstract/document/9858158/)
 * Popovski P, Chiariotti F, Huang K, et al. <b>A perspective on time toward wireless 6G[J]</b>. Proceedings of the IEEE, 2022, 110(8): 1116-1146. [Link](https://ieeexplore.ieee.org/abstract/document/9834918/)
+* Singh P, Kaur A, Gill S S. <b>Machine learning for cloud, fog, edge and serverless computing environments: comparisons, performance evaluation benchmark and future directions[J]</b>. International Journal of Grid and Utility Computing, 2022, 13(4): 447-457. [Link](https://www.inderscienceonline.com/doi/abs/10.1504/IJGUC.2022.125151)
 
 ## July. 2022
 1. Moussaoui M, Bertin E, Crespi N. <b>5G shortcomings and Beyond-5G/6G requirements[C]</b>//International Conference on 6G Networking (6GNet). 2022. [Link](https://ieeexplore.ieee.org/document/9830439)
