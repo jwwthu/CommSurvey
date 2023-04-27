@@ -10,6 +10,16 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
 ## March 2023
+* Al-Doghman F, Moustafa N, Khalil I, et al. <b>AI-enabled secure microservices in edge computing: opportunities and challenges[J]</b>. IEEE Transactions on Services Computing, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9723563/)
+* Hosseini S M, Ferreira J, Bartolomeu P C. <b>Blockchain-Based Decentralized Identification in IoT: An Overview of Existing Frameworks and Their Limitations[J]</b>. Electronics, 2023, 12(6): 1283. [Link](https://www.mdpi.com/2079-9292/12/6/1283)
+* Singh R, Gill S S. <b>Edge AI: a survey[J]</b>. Internet of Things and Cyber-Physical Systems, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2667345223000196)
+* Hossain S, Rokonuzzaman M, Rahman K S, et al. <b>Grid-Vehicle-Grid (G2V2G) Efficient Power Transmission: An Overview of Concept, Operations, Benefits, Concerns, and Future Challenges[J]</b>. Sustainability, 2023, 15(7): 5782. [Link](https://www.mdpi.com/2071-1050/15/7/5782)
+* Blasco R, Ferrante G C, Watermann C, et al. <b>Predictive Quality of Service in Cellular Networks: Challenges, Framework, and Application in Vehicular Communications[J]</b>. IEEE Communications Magazine, 2023, 61(3): 44-49. [Link](https://ieeexplore.ieee.org/abstract/document/10032072/)
+* Adeniyi O, Sadiq A S, Pillai P, et al. <b>Proactive Self-Healing Approaches in Mobile Edge Computing: A Systematic Literature Review[J]</b>. Computers, 2023, 12(3): 63. [Link](https://www.mdpi.com/2073-431X/12/3/63)
+* Frattolillo F, Brunori D, Iocchi L. <b>Scalable and Cooperative Deep Reinforcement Learning Approaches for Multi-UAV Systems: A Systematic Review[J]</b>. Drones, 2023, 7(4): 236. [Link](https://www.mdpi.com/2504-446X/7/4/236)
+* Li Y, Lin Y, Wang Y, et al. <b>Serverless computing: state-of-the-art, challenges and opportunities[J]</b>. IEEE Transactions on Services Computing, 2023, 16(2): 1522-1539. [Link](https://ieeexplore.ieee.org/abstract/document/9756233/)
+* Li N, Sun Q, Li X, et al. <b>Towards the deep convergence of communication and computing in RAN: Scenarios, architecture, key technologies, challenges and future trends[J]</b>. China Communications, 2023, 20(3): 218-235. [Link](https://ieeexplore.ieee.org/abstract/document/10091932/)
+* Kabir M R, Ray S. <b>Virtual Prototyping for Modern Internet-of-Things Applications: A Survey[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10083125/)
 * Imam-Fulani Y O, Faruk N, Sowande O A, et al. <b>5G Frequency Standardization, Technologies, Channel Models, and Network Deployment: Advances, Challenges, and Future Directions[J]</b>. Sustainability, 2023, 15(6): 5173. [Link](https://www.mdpi.com/2071-1050/15/6/5173)
 * Bouzid T, Chaib N, Bensaad M L, et al. <b>5G network slicing with unmanned aerial vehicles: Taxonomy, survey, and future directions[J]</b>. Transactions on Emerging Telecommunications Technologies, e4721, 2023. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4721)
 * Boualouache A, Brik B, Tang Q, et al. <b>5G Vehicle-to-Everything at the Cross-Borders: Security Challenges and Opportunities[J]</b>. IEEE Internet of Things Magazine, 2023, 6(1): 114-119. [Link](https://ieeexplore.ieee.org/abstract/document/10070415/)
@@ -84,6 +94,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Zheng Z, Jiang S, Feng R, et al. <b>Survey of Reinforcement-Learning-Based MAC Protocols for Wireless Ad Hoc Networks with a MAC Reference Model[J]</b>. Entropy, 2023, 25(1): 101. [Link](https://www.mdpi.com/2048604)
 
 ## February 2023
+* Vaño R, Lacalle I, Sowiński P, et al. <b>Cloud-Native Workload Orchestration at the Edge: A Deployment Review and Future Directions[J]</b>. Sensors, 2023, 23(4): 2215. [Link](https://www.mdpi.com/1424-8220/23/4/2215)
 * Banafaa M, Shayea I, Din J, et al. <b>6G mobile communication technology: Requirements, targets, applications, challenges, advantages, and opportunities[J]</b>. Alexandria Engineering Journal, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S111001682200549X)
 * Milarokostas C, Tsolkas D, Passas N, et al. <b>A Comprehensive Study on LPWANs With a Focus on the Potential of LoRa/LoRaWAN Systems[J]</b>. IEEE Communications Surveys & Tutorials, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/9990567/)
 * Ajmeria R, Mondal M, Banerjee R, et al. <b>A Critical Survey of EEG-based BCI Systems for Applications in Industrial Internet of Things[J]</b>. IEEE Communications Surveys & Tutorials, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10000406/)
@@ -192,6 +203,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Shin C, Farag E, Ryu H, et al. <b>Vehicle-to-Everything (V2X) Evolution From 4G to 5G in 3GPP: Focusing on Resource Allocation Aspects[J]</b>. IEEE Access, 2023, 11: 18689-18703. [Link](https://ieeexplore.ieee.org/abstract/document/10049432/)
 
 ## January 2023
+* Campagnaro F, Steinmetz F, Renner B C. <b>Survey on Low-Cost Underwater Sensor Networks: From Niche Applications to Everyday Use[J]</b>. Journal of Marine Science and Engineering, 2023, 11(1): 125. [Link](https://www.mdpi.com/2054438)
 * Mohsan S A H, Othman N Q H, Li Y, et al. <b>Unmanned aerial vehicles (UAVs): practical aspects, applications, open challenges, security issues, and future trends[J]</b>. Intelligent Service Robotics, 2023: 1-29. [Link](https://link.springer.com/article/10.1007/s11370-022-00452-4)
 * Gerodimos A, Maglaras L, Ferrag M A, et al. <b>IOT: Communication protocols and security threats[J]</b>. Internet of Things and Cyber-Physical Systems, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2667345222000293)
 * Teja Sree B, Varma G P S, Indukurib H. <b>Mobile Edge Computing Architecture Challenges, Applications, and Future Directions[J]</b>. International Journal of Grid and High Performance Computing (IJGHPC), 2023, 15(2): 1-23. [Link](https://dl.acm.org/doi/abs/10.4018/IJGHPC.316837)
