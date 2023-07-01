@@ -56,7 +56,7 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Judvaitis J, Abolins V, Elkenawy A, et al. <b>Testbed Facilities for IoT and Wireless Sensor Networks: A Systematic Review[J]</b>. Journal of Sensor and Actuator Networks, 2023, 12(3): 48. [Link](https://www.mdpi.com/2224-2708/12/3/48)
 * Qadir Z, Le K N, Saeed N, et al. <b>Towards 6G Internet of Things: Recent advances, use cases, and open challenges[J]</b>. ICT Express, 2023, 9(3): 296-312. [Link](https://www.sciencedirect.com/science/article/pii/S2405959522000959)
 * Sefati S S, Halunga S. <b>Ultra‐reliability and low‐latency communications on the internet of things based on 5G network: Literature review, classification, and future research view[J]</b>. Transactions on Emerging Telecommunications Technologies, 2023: e4770. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4770)
-* Awad A I, Fouda M M, Khashaba M M, et al. <b>Utilization of mobile edge computing on the Internet of Medical Things: A survey[J]</b>. ICT Express, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S2405959522000753)
+* Awad A I, Fouda M M, Khashaba M M, et al. <b>Utilization of mobile edge computing on the Internet of Medical Things: A survey[J]</b>. ICT Express, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2405959522000753)
 
 ## May 2023
 * Wadatkar P V, Garroppo R G, Nencioni G. <b>5G-MEC Testbeds for V2X Applications[J]</b>. Future Internet, 2023, 15(5): 175. [Link](https://www.mdpi.com/1999-5903/15/5/175)
