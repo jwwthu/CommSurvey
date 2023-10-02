@@ -9,6 +9,28 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+## September 2023
+* Wu D, Cui L. <b>A comprehensive survey on segment routing traffic engineering[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864822000189)
+* Deng X, Wang L, Gui J, et al. <b>A review of 6G autonomous intelligent transportation systems: Mechanisms, applications and challenges[J]</b>. Journal of Systems Architecture, 2023: 102929. [Link](https://www.sciencedirect.com/science/article/pii/S138376212300108X)
+* Alubady R, Salman M, Mohamed A S. <b>A review of modern caching strategies in named data network: overview, classification, and research directions[J]</b>. Telecommunication Systems, 2023: 1-46. [Link](https://link.springer.com/article/10.1007/s11235-023-01015-3)
+* Wang Y, Su Z, Guo S, et al. <b>A survey on digital twins: architecture, enabling technologies, security and privacy, and future prospects[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10090432/)
+* Al‐Asadi S A, Al‐Mamory S O. <b>A survey on edge and fog nodes' placement methods, techniques, parameters, and constraints[J]</b>. IET Networks, 2023. [Link](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ntw2.12087)
+* Liatifis A, Sarigiannidis P, Argyriou V, et al. <b>Advancing sdn from openflow to p4: A survey[J]</b>. ACM Computing Surveys, 2023, 55(9): 1-37. [Link](https://dl.acm.org/doi/abs/10.1145/3556973)
+* Damsgaard H J, Ometov A, Mowla M M, et al. <b>Approximate computing in B5G and 6G wireless systems: A survey and future outlook[J]</b>. Computer Networks, 2023: 109872. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623003171)
+* Kaur R, Gabrijelčič D, Klobučar T. <b>Artificial intelligence for cybersecurity: Literature review and future research directions[J]</b>. Information Fusion, 2023: 101804. [Link](https://www.sciencedirect.com/science/article/pii/S1566253523001136)
+* Wang Y, Zhang B, Ma J, et al. <b>Artificial intelligence of things (AIoT) data acquisition based on graph neural networks: A systematical review[J]</b>. Concurrency and Computation: Practice and Experience, e7827, 2023. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7827)
+* Dogani J, Namvar R, Khunjush F. <b>Auto-scaling techniques in container-based cloud and edge/fog computing: Taxonomy and survey[J]</b>. Computer Communications, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002086)
+* Baranwal G, Kumar D, Vidyarthi D P. <b>Blockchain based resource allocation in cloud and distributed edge computing: a survey[J]</b>. Computer Communications, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S0140366423002566)
+* Karachalios O A, Zafeiropoulos A, Kontovasilis K, et al. <b>Distributed Machine Learning and Native AI Enablers for End-to-End Resources Management in 6G[J]</b>. Electronics, 2023, 12(18): 3761. [Link](https://www.mdpi.com/2079-9292/12/18/3761)
+* Gong T, Zhu L, Yu F R, et al. <b>Edge Intelligence in Intelligent Transportation Systems: A Survey[J]</b>. IEEE Transactions on Intelligent Transportation Systems, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10133894/)
+* Puspitasari A A, An T T, Alsharif M H, et al. <b>Emerging Technologies for 6G Communication Networks: Machine Learning Approaches[J]</b>. Sensors, 2023, 23(18): 7709. [Link](https://www.mdpi.com/1424-8220/23/18/7709)
+* Smida B, Sabharwal A, Fodor G, et al. <b>Full-duplex wireless for 6G: Progress brings new opportunities and challenges[J]</b>. IEEE Journal on Selected Areas in Communications, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10158724/)
+* Ahmed S F, Alam M S B, Hoque M, et al. <b>Industrial Internet of Things enabled technologies, challenges, and future directions[J]</b>. Computers and Electrical Engineering, 2023, 110: 108847. [Link](https://www.sciencedirect.com/science/article/pii/S0045790623002719)
+* Akarte H A, Yadav D K. <b>Packet processing and data plane program verification: A survey with tools, techniques, and challenges[J]</b>. International Journal of Communication Systems, 2023, 36(14): e5554. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.5554)
+* Liu H, Liao X, Du B. <b>The applications of nature-inspired meta-heuristic algorithms for decreasing the energy consumption of software-defined networks: A comprehensive and systematic literature review[J]</b>. Sustainable Computing: Informatics and Systems, 2023: 100895. [Link](https://www.sciencedirect.com/science/article/pii/S2210537923000501)
+* Pawlicki M, Pawlicka A, Kozik R, et al. <b>The survey and meta-analysis of the attacks, transgressions, countermeasures and security aspects common to the Cloud, Edge and IoT[J]</b>. Neurocomputing, 2023: 126533. [Link](https://www.sciencedirect.com/science/article/pii/S0925231223006562)
+* Wu D, Yang Z, Zhang P, et al. <b>Virtual-Reality Inter-Promotion Technology for Metaverse: A Survey[J]</b>. IEEE Internet of Things Journal, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10098667/)
+
 ## August 2023
 * Bajracharya R, Shrestha R, Hassan S A, et al. <b>5G and Beyond Private Military Communication: Trend, Requirements, Challenges and Enablers[J]</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10210549/)
 * Sowmya T, Anita E A M. <b>A comprehensive review of AI based intrusion detection system[J]</b>. Measurement: Sensors, 2023: 100827. [Link](https://www.sciencedirect.com/science/article/pii/S2665917423001630)
