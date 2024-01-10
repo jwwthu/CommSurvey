@@ -9,6 +9,18 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+## December 2023
+* Jawad A T, Maaloul R, Chaari L. <b>A comprehensive survey on 6G and beyond: Enabling technologies, opportunities of machine learning and challenges[J]</b>. Computer Networks, 2023: 110085. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623005303)
+* Serria E, Gadhafi R, AlMaeeni S, et al. <b>A Review of Lunar Communications and Antennas: Assessing Performance in the Context of Propagation and Radiation[J]</b>. Sensors, 2023, 23(24): 9832. [Link](https://www.mdpi.com/1424-8220/23/24/9832)
+* Deng J, Deng J, Liu P, et al. <b>A Survey on Vehicular Cloud Network Security[J]</b>. IEEE Access, 2023, 11: 136741-136757. [Link](https://ieeexplore.ieee.org/abstract/document/10339926/)
+* Taleb T, Benzaïd C, Addad R A, et al. <b>AI/ML for beyond 5G systems: Concepts, technology enablers & solutions[J]</b>. Computer Networks, 2023, 237: 110044. [Link](https://www.sciencedirect.com/science/article/pii/S1389128623004899)
+* Arshad Q A, Khan W Z, Azam F, et al. <b>Blockchain-based decentralized trust management in IoT: systems, requirements and challenges[J]</b>. Complex & Intelligent Systems, 2023: 1-22. [Link](https://link.springer.com/article/10.1007/s40747-023-01058-8)
+* Masud F, Abdul-Salaam G, Anwar M, et al. <b>Contention-based traffic priority MAC protocols in wireless body area networks: A thematic review[J]</b>. Egyptian Informatics Journal, 2023, 24(4): 100410. [Link](https://www.sciencedirect.com/science/article/pii/S111086652300066X)
+* Alsamiri J, Alsubhi K. <b>Federated Learning for Intrusion Detection Systems in Internet of Vehicles: A General Taxonomy, Applications, and Future Directions[J]</b>. Future Internet, 2023, 15(12): 403. [Link](https://www.mdpi.com/1999-5903/15/12/403)
+* Elsayed M, El-Banna A A A, Dobre O A, et al. <b>Machine Learning-Based Self-Interference Cancellation for Full-Duplex Radio: Approaches, Open Challenges, and Future Research Directions[J]</b>. IEEE Open Journal of Vehicular Technology, 2023, 5: 21-47. [Link](https://ieeexplore.ieee.org/abstract/document/10314438/)
+* Niknami N, Srinivasan A, St. <b>Germain K, et al. Maritime Communications—Current State and the Future Potential with SDN and SDR[J]</b>. Network, 2023, 3(4): 563-584. [Link](https://www.mdpi.com/2673-8732/3/4/25)
+* Chahed H, Kassler A. <b>TSN Network Scheduling—Challenges and Approaches[J]</b>. Network, 2023, 3(4): 585-624. [Link](https://www.mdpi.com/2673-8732/3/4/26)
+
 ## November 2023
 * Mohammadi M, Mobini Z, Galappaththige D, et al. <b>A Comprehensive Survey on Full-Duplex Communication: Current Solutions, Future Trends, and Open Issues[J]</b>. IEEE Communications Surveys & Tutorials, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10258345/)
 * Gugueoth V, Safavat S, Shetty S, et al. <b>A review of IoT security and privacy using decentralized blockchain techniques[J]</b>. Computer Science Review, 2023, 50: 100585. [Link](https://www.sciencedirect.com/science/article/pii/S1574013723000527)
