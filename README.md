@@ -9,6 +9,28 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+## April 2024
+* Carvajal-Rodríguez J, Guamán D S, Tipantuña C, et al. <b>3D Placement Optimization in UAV-Enabled Communications: A Systematic Mapping Study[J]</b>. IEEE Open Journal of Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10478734/)
+* Sarkar D, Yadav S S, Pal V, et al. <b>A Comprehensive Survey On IRS-Assisted NOMA-Based 6G Wireless Network: Design Perspectives, Challenges and Future Directions[J]</b>. IEEE Transactions on Network and Service Management, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10418188/)
+* Sheraz M, Chuah T C, Lee Y L, et al. <b>A Comprehensive Survey on Revolutionizing Connectivity Through Artificial Intelligence-Enabled Digital Twin Network in 6G[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10488409/)
+* Premalatha B, Prakasam P. <b>A Review on FoG Computing in 5G Wireless Technologies: Research Challenges, Issues and Solutions[J]</b>. Wireless Personal Communications, 2024: 1-30. [Link](https://link.springer.com/article/10.1007/s11277-024-11061-y)
+* Couto R S, Cruz P, Pacheco R G, et al. <b>A survey of public datasets for O-RAN: fostering the development of machine learning models[J]</b>. Annals of Telecommunications, 2024: 1-14. [Link](https://link.springer.com/article/10.1007/s12243-024-01029-1)
+* Getu T M, Kaddoum G, Bennis M. <b>A survey on goal-oriented semantic communication: Techniques, challenges, and future directions[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10479470/)
+* Liu W, Wei G, Zhu M. <b>A Survey on Multi-Dimensional Path Planning Method for Mobile Anchor Node Localization in Wireless Sensor Networks[J]</b>. Ad Hoc Networks, 2024, 156: 103416. [Link](https://www.sciencedirect.com/science/article/pii/S1570870524000271)
+* Malakar M, Mahapatro J, Ghosh T. <b>A survey on routing and load-balancing mechanisms in software-defined vehicular networks[J]</b>. Wireless Networks, 2024: 1-17. [Link](https://link.springer.com/article/10.1007/s11276-024-03729-x)
+* Rostami M, Goli-Bidgoli S. <b>An overview of QoS-aware load balancing techniques in SDN-based IoT networks[J]</b>. Journal of Cloud Computing, 2024, 13(1): 1-42. [Link](https://journalofcloudcomputing.springeropen.com/articles/10.1186/s13677-024-00651-7)
+* Zhang S, Zhu D, Liu Y. <b>Artificial intelligence empowered physical layer security for 6G: State-of-the-art, challenges, and opportunities[J]</b>. Computer Networks, 2024: 110255. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624000872)
+* Cao Y, Pokhrel S R, Zhu Y, et al. <b>Automation and orchestration of zero trust architecture: Potential solutions and challenges[J]</b>. Machine Intelligence Research, 2024: 1-24. [Link](https://link.springer.com/article/10.1007/s11633-023-1456-2)
+* Babakian A, Huston G, Braun R, et al. <b>Internet Identifiers: A Survey of History, Challenges, and Future Perspectives[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10479495/)
+* Gu Y, Xu T, Feng K, et al. <b>ISAC towards 6G Satellite–Terrestrial Communications: Principles, Status, and Prospects[J]</b>. Electronics, 2024, 13(7): 1369. [Link](https://www.mdpi.com/2079-9292/13/7/1369)
+* Zhao B, Wu J, Ma Y, et al. <b>Meta-Learning for Wireless Communications: A Survey and a Comparison to GNNs[J]</b>. IEEE Open Journal of the Communications Society, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10477590/)
+* Qazzaz M M H, Zaidi S A, McLernon D, et al. <b>Non-Terrestrial UAV clients for beyond 5G networks: A comprehensive survey[J]</b>. Ad Hoc Networks, 2024: 103440. [Link](https://www.sciencedirect.com/science/article/pii/S1570870524000519)
+* Sharma S, Deka K, Mishra A. <b>Reconfigurable Intelligent Surfaces Aided Terahertz Communication for 6G: Challenges and Potential Solutions[J]</b>. Wireless Personal Communications, 2024: 1-15. [Link](https://link.springer.com/article/10.1007/s11277-024-10985-9)
+* Guidotti A, Vanelli-Coralli A, El Jaafari M, et al. <b>Role and Evolution of Non-Terrestrial Networks towards 6G systems[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10500741/)
+* Priyadarshi R, Kumar R R, Ying Z. <b>Techniques employed in distributed cognitive radio networks: a survey on routing intelligence[J]</b>. Multimedia Tools and Applications, 2024: 1-52. [Link](https://link.springer.com/article/10.1007/s11042-024-19054-6)
+* Tyagi N, Chavan S S, Gangadharan S M P. <b>Towards intelligent industrial systems: A comprehensive survey of sensor fusion techniques in IIoT[J]</b>. Measurement: Sensors, 2023: 100944. [Link](https://www.sciencedirect.com/science/article/pii/S2665917423002805)
+* El Rajab M, Yang L, Shami A. <b>Zero-touch networks: Towards next-generation network automation[J]</b>. Computer Networks, 2024: 110294. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624001269)
+
 ## March 2024
 * Adil M, Song H, Khan M K, et al. <b>5G/6G-enabled metaverse technologies: Taxonomy, applications, and open security challenges with future research directions[J]</b>. Journal of Network and Computer Applications, 2024: 103828. [Link](https://www.sciencedirect.com/science/article/pii/S1084804524000055)
 * Wang Y, Wu S, Lei C, et al. <b>A Review on Wireless Networked Control System: The Communication Perspective[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10354462/)
@@ -30,7 +52,6 @@ Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫�
 * Moloudian G, Hosseinifard M, Kumar S, et al. <b>RF Energy Harvesting Techniques for Battery-less Wireless Sensing, Industry 4.0 and Internet of Things: A Review[J]</b>. IEEE Sensors Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10403770/)
 * Onopa S, Kotulski Z. <b>State-of-the-Art and New Challenges in 5G Networks with Blockchain Technology[J]</b>. Electronics, 2024, 13(5): 974. [Link](https://www.mdpi.com/2079-9292/13/5/974)
 * Wu T, Cao T, Yang F, et al. <b>Ultraviolet-Based Indoor Wireless Communications: Potentials, Scenarios, and Trends[J]</b>. IEEE Communications Magazine, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10342648/)
-
 
 ## February 2024
 * Tatipatri N, Arun S L. <b>A Comprehensive Review on Cyber-attacks in Power Systems: Impact Analysis, Detection and Cyber security[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10418207/)
