@@ -9,6 +9,26 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+## July 2024
+* Ezzeddine Z, Khalil A, Zeddini B, et al. <b>A Survey on Green Enablers: A Study on the Energy Efficiency of AI-Based 5G Networks[J]</b>. Sensors, 2024, 24(14): 4609. [Link](https://www.mdpi.com/1424-8220/24/14/4609)
+* Jiao L, Shao Y, Sun L, et al. <b>Advanced Deep Learning Models for 6G: Overview, Opportunities and Challenges[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10570412/)
+* Sun C, Fontanesi G, Canberk B, et al. <b>Advancing UAV Communications: A Comprehensive Survey of Cutting-Edge Machine Learning Techniques[J]</b>. IEEE Open Journal of Vehicular Technology, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10531095/)
+* Shaik R B, Nagaradjane P, Ioannou I, et al. <b>AI/ML-aided capacity maximization strategies for URLLC in 5G/6G wireless systems: A survey[J]</b>. Computer Networks, 2024, 249: 110506. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624003384)
+* Kala S M, Mishra M, Biju A, et al. <b>Architecture, Performance, and Usability of Mobile Cellular Network Monitoring Applications for Data-driven Analysis[J]</b>. IEEE Access, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10570321/)
+* Khalid A, Rehman R A, Kim B S. <b>Caching Strategies in NDN Based Wireless Ad Hoc Network: A Survey[J]</b>. Computers, Materials & Continua 2024, 80(1), 61-103. [Link](https://www.techscience.com/cmc/v80n1/57365)
+* Zhang Y, Gao T, Li C, et al. <b>Coded Federated Learning for Communication-Efficient Edge Computing: A Survey[J]</b>. IEEE Open Journal of the Communications Society, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10585314/)
+* Castillo A, Juiz C, Bermejo B. <b>Delay and Disruption Tolerant Networking for Terrestrial and TCP/IP Applications: A Systematic Literature Review[J]</b>. Network, 2024, 4(3): 237-259. [Link](https://www.mdpi.com/2673-8732/4/3/12)
+* Nguyen C T, Saputra Y M, Van Huynh N, et al. <b>Emerging Technologies for 6G Non-Terrestrial-Networks: From Academia to Industrial Applications[J]</b>. IEEE Open Journal of the Communications Society, 2024. [Link](https://ieeexplore.ieee.org/document/10570308)
+* Lohan P, Kantarci B, Ferrag M A, et al. <b>From 5G to 6G Networks, a Survey on AI-Based Jamming and Interference Detection and Mitigation[J]</b>. IEEE Open Journal of the Communications Society, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10564152/)
+* Zaid M, Kadir M K A, Shayea I, et al. <b>Machine learning-based approaches for handover decision of cellular-connected drones in future networks: A comprehensive review[J]</b>. Engineering Science and Technology, an International Journal, 2024, 55: 101732. [Link](https://www.sciencedirect.com/science/article/pii/S2215098624001186)
+* Nawshin F, Gad R, Unal D, et al. <b>Malware detection for mobile computing using secure and privacy-preserving machine learning approaches: A comprehensive survey[J]</b>. Computers and Electrical Engineering, 2024, 117: 109233. [Link](https://www.sciencedirect.com/science/article/pii/S0045790624001617)
+* Aboagye S, Saeidi M A, Tabassum H, et al. <b>Multi-band wireless communication networks: Fundamentals, challenges, and resource allocation[J]</b>. IEEE Transactions on Communications, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10438479/)
+* Johari Abdul Rahim, Rosdiadee Nordin, Oluwatosin Ahmed Amodu. <b>Open-Source Software Defined Networking Controllers: State-of-the-Art, Challenges and Solutions for Future Network Providers</b>. Computers, Materials & Continua 2024, 80(1), 747-800. [Link](https://www.techscience.com/cmc/v80n1/57354)
+* Tache M D, Păscuțoiu O, Borcoci E. <b>Optimization Algorithms in SDN: Routing, Load Balancing, and Delay Optimization[J]</b>. Applied Sciences, 2024, 14(14): 5967. [Link](https://www.mdpi.com/2076-3417/14/14/5967)
+* Wang Z, Zhao Y, Zhou Y, et al. <b>Over-the-Air Computation for 6G: Foundations, Technologies, and Applications[J]</b>. IEEE Internet of Things Journal, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10538293/)
+* Alkhayyal M, Mostafa A. <b>Recent Developments in AI and ML for IoT: A Systematic Literature Review on LoRaWAN Energy Efficiency and Performance Optimization[J]</b>. Sensors, 2024, 24(14): 4482. [Link](https://www.mdpi.com/1424-8220/24/14/4482)
+* Lin Y, Feng W, Wang Y, et al. <b>Satellite-MEC Integration for 6G Internet of Things: Minimal Structures, Advances, and Prospects[J]</b>. IEEE Open Journal of the Communications Society, 2024. [Link](https://ieeexplore.ieee.org/abstract/document/10571560/)
+
 ## June 2024
 * Rachakonda L P, Siddula M, Sathya V. <b>A comprehensive study on IoT privacy and security challenges with focus on spectrum sharing in Next-Generation networks (5G/6G/beyond)[J]</b>. High-Confidence Computing, 2024: 100220. [Link](https://www.sciencedirect.com/science/article/pii/S2667295224000230)
 * Stanco G, Navarro A, Frattini F, et al. <b>A comprehensive survey on the security of low power wide area networks for the Internet of Things[J]</b>. ICT Express, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S2405959524000274)
