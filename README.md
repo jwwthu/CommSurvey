@@ -9,6 +9,30 @@ Note: A special collection about **Satellite Communication Surveys** can be foun
 
 Advertisement: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
 
+## January 2025
+* Patil R, Tian Z, Gurusamy M, et al. <b>5G core network control plane: Network security challenges and solution requirements[J]</b>. Computer Communications, 2025: 107982. [Link](https://www.sciencedirect.com/science/article/pii/S0140366424003293)
+* Siddiky M N A, Rahman M E, Uzzal M S, et al. <b>A Comprehensive Exploration of 6G Wireless Communication Technologies[J]</b>. Computers, 2025, 14(1): 15. [Link](https://www.mdpi.com/2073-431X/14/1/15)
+* Farahi R. <b>A comprehensive overview of load balancing methods in software-defined networks[J]</b>. Discover Internet of Things, 2025, 5(1): 6. [Link](https://link.springer.com/article/10.1007/s43926-025-00098-5)
+* Kalambe D, Sharma D, Kadam P, et al. <b>A comprehensive plane-wise review of DDoS attacks in SDN: Leveraging detection and mitigation through machine learning and deep learning[J]</b>. Journal of Network and Computer Applications, 2025: 104081. [Link](https://www.sciencedirect.com/science/article/pii/S1084804524002583)
+* Ma Y, Liu L, Liu Z, et al. <b>A Survey of DDoS Attack and Defense Technologies in Multi-Access Edge Computing[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10742092/)
+* Zhang H, Wang J, Zhao Z, et al. <b>A survey of edge caching security: Framework, methods, and challenges[J]</b>. Journal of Systems Architecture, 2025: 103306. [Link](https://www.sciencedirect.com/science/article/pii/S1383762124002431)
+* Alirezazadeh S, Alexandre L A. <b>A survey on task allocation and scheduling in robotic network systems[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10742644/)
+* Diane A, Diallo O, Ndoye E H M. <b>A systematic and comprehensive review on low power wide area network: characteristics, architecture, applications and research challenges[J]</b>. Discover Internet of Things, 2025, 5(1): 7. [Link](https://link.springer.com/article/10.1007/s43926-025-00097-6)
+* Mallidi S K R, Ramisetty R R. <b>Advancements in training and deployment strategies for AI-based intrusion detection systems in IoT: a systematic literature review[J]</b>. Discover Internet of Things, 2025, 5(1): 8. [Link](https://link.springer.com/article/10.1007/s43926-025-00099-4)
+* Vu T H, Jagatheesaperumal S K, Nguyen M D, et al. <b>Applications of Generative AI (GAI) for Mobile and Wireless Networking: A Survey[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/document/10737408/)
+* Darwish T, Alhaj T A, Elhaj F A. <b>Controller placement in software defined emerging networks: a review and future directions[J]</b>. Telecommunication Systems, 2025, 88(1): 1-33. [Link](https://link.springer.com/article/10.1007/s11235-024-01252-0)
+* Zhukabayeva T, Zholshiyeva L, Karabayev N, et al. <b>Cybersecurity Solutions for Industrial Internet of Things–Edge Computing Integration: Challenges, Threats, and Future Directions[J]</b>. Sensors, 2025, 25(1): 213. [Link](https://www.mdpi.com/1424-8220/25/1/213)
+* Chen H, Wen Y, Huang Y, et al. <b>Edge Computing Enabling Internet of Ships: A Survey on Architectures, Emerging Applications, and Challenges[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10742611/)
+* El-Hajj M. <b>Enhancing Communication Networks in the New Era with Artificial Intelligence: Techniques, Applications, and Future Directions[J]</b>. Network, 2025, 5(1): 1. [Link](https://www.mdpi.com/2673-8732/5/1/1)
+* Tarhouni F, Wang R, Alouini M S. <b>Free Space Optical Mesh Networks: A Survey[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10821003/)
+* Javaid S, Khalil R A, Saeed N, et al. <b>Leveraging large language models for integrated satellite-aerial-terrestrial networks: recent advances and future directions[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10813004/)
+* Aldhaheri L, Alshehhi N, Manzil I I J, et al. <b>LoRa Communication for Agriculture 4.0: Opportunities, Challenges, and Future Directions[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10735371/)
+* Wani M S, Kretschmer M, Schröder B, et al. <b>Open RAN: A concise overview[J]</b>. IEEE Open Journal of the Communications Society, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10601697/)
+* Rahmani A M, Haider A, Khoshvaght P, et al. <b>Optimizing Task Offloading with Metaheuristic Algorithms Across Cloud, Fog, and Edge Computing Networks: A Comprehensive Survey and State-of-the-Art Schemes[J]</b>. Sustainable Computing: Informatics and Systems, 2025: 101080. [Link](https://www.sciencedirect.com/science/article/pii/S2210537924001252)
+* Abuyaghi M, Si-Mohammed S, Shaker G, et al. <b>Positioning in 5G Networks: Emerging Techniques, Use Cases, and Challenges[J]</b>. IEEE Internet of Things Journal, 2025. [Link](https://ieeexplore.ieee.org/document/10737444)
+* Kufakunesu R, Myburgh H, De Freitas A. <b>The internet of battle things: a survey on communication challenges and recent solutions[J]</b>. Discover Internet of Things, 2025, 5(1): 3. [Link](https://link.springer.com/article/10.1007/s43926-025-00093-w)
+* Tera S P, Chinthaginjala R, Pau G, et al. <b>Towards 6G: An Overview of the Next Generation of Intelligent Network Connectivity[J]</b>. IEEE Access, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/10816608/)
+
 ## December 2024
 * Liu G, Deng J, Zhu Y, et al. <b>6G autonomous radio access network empowered by artificial intelligence and network digital twin[J]</b>. Frontiers of Information Technology & Electronic Engineering, 2024: 1-53. [Link](https://link.springer.com/article/10.1631/FITEE.2400569)
 * Zhang Y, Huang H, Huang Q, et al. <b>6TiSCH IIoT Network: A Review[J]</b>. Computer Networks, 2024: 110759. [Link](https://www.sciencedirect.com/science/article/pii/S1389128624005917)
